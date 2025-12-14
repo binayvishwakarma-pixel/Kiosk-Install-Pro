@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Kiosk Install Pro",
+  "description": "Mobile-first kiosk installation management app with specific slide-based workflows, automated PPT generation, and admin oversight.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
